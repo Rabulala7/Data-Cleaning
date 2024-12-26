@@ -13,11 +13,6 @@ This repository contains a data cleaning project focused on the **Nashville Hous
 ## Tools Used  
 - **SQL**: For performing cleaning operations.  
 
-## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/nashville-housing-data-cleaning.git
-
 
 
 ACKNOWLEDGEMENTS
